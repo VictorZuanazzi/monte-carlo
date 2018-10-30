@@ -1,2 +1,2 @@
-# monte-carlo
-Python Example of Monte Carlo Estimation &amp; Importance Sampling
+# Monte Carlo and Importance Sampling
+
